@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\bin\Debug\net6.0\HomeTaskDownCasUpCas.exe
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\bin\Debug\net6.0\HomeTaskDownCasUpCas.deps.json
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\bin\Debug\net6.0\HomeTaskDownCasUpCas.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\bin\Debug\net6.0\HomeTaskDownCasUpCas.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\bin\Debug\net6.0\HomeTaskDownCasUpCas.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\refint\HomeTaskDownCasUpCas.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\HomeTaskDownCasUpCas.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDownCasUpCas\obj\Debug\net6.0\ref\HomeTaskDownCasUpCas.dll
